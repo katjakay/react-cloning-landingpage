@@ -10,11 +10,11 @@ root.render(
     <Global
       styles={css`
         body {
-          background-image: linear-gradient(225deg, #040a20 0%, #6f7f9c 100%);
+          background-color: rgb(4, 10, 32);
           --suspense-scale-max: 1.05;
           color: white;
           margin: 0;
-          font-family: 'Arimo', sans-serif;
+
           -webkit-font-smoothing: antialiased;
           -moz-osx-font-smoothing: grayscale;
         }

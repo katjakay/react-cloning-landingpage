@@ -1,0 +1,7 @@
+@font-face {
+  font-family: larsseit;
+  src: url(.../public/Larsseit.woff);
+}
+.larsseit {
+  font-family: larsseit;
+}
