@@ -117,7 +117,7 @@ const rightSideNavigationStyles = css`
   margin-right: 200px;
 
   :hover {
-    transform: scale(1.05);a
+    transform: scale(1.05);
   }
 `;
 
@@ -220,7 +220,7 @@ const iFrameWrapperStyles = css`
 `;
 
 const iFrameStyles = css`
-  border-radius: 2%/2.756%;
+  border-radius: 2% 2.756%;
 `;
 
 const cardSectionTitleStyles = css`
@@ -315,7 +315,7 @@ const centerSectionLayoutStyles = css`
   margin-right: 200px;
 
   h2 {
-    color: -webkit-linear-gradient(#af2ff5, #fa294c);
+    color: webkit-linear-gradient(#af2ff5, #fa294c);
     font-size: 50px;
     font-family: Unbounded;
     font-weight: 600;
@@ -382,7 +382,6 @@ const photoGridLayoutStyles = css`
     text-decoration: none;
     max-width: 100%;
     max-height: 100%;
-    text-decoration: none;
   }
 
   h4 {
